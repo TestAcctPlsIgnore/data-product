@@ -1,7 +1,7 @@
 [
   {
     "CostPrice": "19.99",
-    "Description": "A Cool Mouse!",
+    "Description": "A Cool Mouse! Equipped with an advanced optical sensor, the Cool Mouse gives you the absolute advantage of having a fast sensor.",
     "ProductName": "Cool Mouse",
     "GraphicName": "Another Cool Mouse",
     "MSRP": "24.99",
@@ -11,7 +11,7 @@
   },
   {
     "CostPrice": "19.98",
-    "Description": "A Cooler Mouse!",
+    "Description": "A Cooler Mouse! Boasting the world’s most precise 16,000 DPI gaming mouse sensor, the Cooler Mouse provides you with unsurpassable accuracy, so you’ll have an even greater edge over your competition.",
     "ProductName": "Cooler Mouse",
     "GraphicName": "Another Cooler Mouse",
     "MSRP": "24.98",
@@ -21,7 +21,7 @@
   },
   {
     "CostPrice": "19.97",
-    "Description": "The Coolest Mouse!",
+    "Description": "The Coolest Mouse! The Coolest Mouse features a thumb-activated sniper button that boosts accuracy when aiming-down-sights in FPS games.",
     "ProductName": "Coolest Mouse",
     "GraphicName": "Another Coolest Mouse",
     "MSRP": "24.97",
@@ -31,7 +31,7 @@
   },
   {
     "CostPrice": "19.96",
-    "Description": "An Ok Mouse!",
+    "Description": "An Ok Mouse! Ok Mouse meets the demands of MMO play with deep button modularity that fluidly transitions into a MOBA or FPS master tool with ease. Its near boundless customization extends its use far past the competition.",
     "ProductName": "Ok Mouse",
     "GraphicName": "Another Ok Mouse",
     "MSRP": "24.96",
@@ -41,7 +41,7 @@
   },
   {
     "CostPrice": "19.95",
-    "Description": "A Mediocre Mouse!",
+    "Description": "A Mediocre Mouse! At the center of Mediocre Mouse's top panel is a profile select button to quickly switch between up to five different mouse profiles.",
     "ProductName": "Mediocre Mouse",
     "GraphicName": "Another Mediocre Mouse",
     "MSRP": "24.95",
@@ -51,7 +51,7 @@
   },
   {
     "CostPrice": "24.95",
-    "Description": "A Terrific Mouse!",
+    "Description": "A Terrific Mouse! No matter the genre or taste, its catalog of side-parts and buttons joined with an expertly engineered foundation combine to make a revolutionary device that serves the imagination, creativity and high standards of gamers today.",
     "ProductName": "Terrific Mouse",
     "GraphicName": "Another Terrific Mouse",
     "MSRP": "29.95",
@@ -61,7 +61,7 @@
   },
   {
     "CostPrice": "25.95",
-    "Description": "A Fantastic Mouse!",
+    "Description": "A Fantastic Mouse! Designed for any game and every gamer, Fantastic Mouse delivers enhanced gaming-grade performance in a lightweight, ergonomically designed body.",
     "ProductName": "Fantastic Mouse",
     "GraphicName": "Another Fantastic Mouse",
     "MSRP": "30.95",
@@ -71,7 +71,7 @@
   },
   {
     "CostPrice": "26.95",
-    "Description": "A Great Mouse!",
+    "Description": "A Great Mouse! Consistent, pixel-precise accuracy makes a critical difference in high-stakes competitive gameplay. The Great Mouse delivers a level of precision widely considered to be the best by enthusiasts and professionals alike.",
     "ProductName": "Great Mouse",
     "GraphicName": "Another Great Mouse",
     "MSRP": "31.95",
@@ -81,7 +81,7 @@
   },
   {
     "CostPrice": "27.95",
-    "Description": "A Gnarly Mouse!",
+    "Description": "A Gnarly Mouse! Custom TrueMove3 12,000 CPI, 350 IPS optical 1-to-1 tracking esports sensor; Legendary Gnarly Mouse ambidextrous design for claw and palm grip styles.",
     "ProductName": "Gnarly Mouse",
     "GraphicName": "Another Gnarly Mouse",
     "MSRP": "32.95",
@@ -91,7 +91,7 @@
   },
   {
     "CostPrice": "28.95",
-    "Description": "A Mondo Mouse!",
+    "Description": "A Mondo Mouse! The Mondo Mouse brings together unmatched performance and high levels of customization for the best professional-grade, right-handed gaming mouse.",
     "ProductName": "Mondo Mouse",
     "GraphicName": "Another Mondo Mouse",
     "MSRP": "33.95",
@@ -101,7 +101,7 @@
   },
   {
     "CostPrice": "9.87",
-    "Description": "A Wicked Mouse!",
+    "Description": "A Wicked Mouse! Wicked Mouse allows you to change the weight, balance, and enables you to adapt to wherever you choose to play.",
     "ProductName": "Wicked Mouse",
     "GraphicName": "Another Wicked Mouse",
     "MSRP": "78.90",
@@ -111,7 +111,7 @@
   },
   {
     "CostPrice": "8.88",
-    "Description": "A Rad Mouse!",
+    "Description": "A Rad Mouse! Exclusive Rad Mouse optical sensor technology minimizes mouse acceleration and increases reliable targeting.",
     "ProductName": "Rad Mouse",
     "GraphicName": "Another Rad Mouse",
     "MSRP": "99.99",
@@ -121,7 +121,7 @@
   },
   {
     "CostPrice": "12.34",
-    "Description": "A Bad Mouse!",
+    "Description": "A Bad Mouse! Fine tune Bad Mouse to your playing surface for better accuracy, precision and responsiveness. A quick tuning process, and you are battle ready.",
     "ProductName": "Bad Mouse",
     "GraphicName": "Another Bad Mouse",
     "MSRP": "56.78",
@@ -131,7 +131,7 @@
   },
   {
     "CostPrice": "11.11",
-    "Description": "A Disppointing Mouse!",
+    "Description": "A Disppointing Mouse! Up to eight times faster than a standard USB mouse, Disppointing Mouse captures your moves as fast as you can make them.",
     "ProductName": "Disppointing Mouse",
     "GraphicName": "Another Disppointing Mouse",
     "MSRP": "22.22",
@@ -141,7 +141,7 @@
   },
   {
     "CostPrice": "0.99",
-    "Description": "A Magical Mouse!",
+    "Description": "A Magical Mouse! With 20 buttons, the Magical Mouse is the most customizable and easy to use mouse specifically designed for mastering your favorite MMOs.",
     "ProductName": "Magical Mouse",
     "GraphicName": "Another Magical Mouse",
     "MSRP": "999.99",
